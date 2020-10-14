@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/WeatherNewsApp/static/css/main.7bb31e96.chunk.css",
+    "main.js": "/WeatherNewsApp/static/js/main.97986aae.chunk.js",
+    "main.js.map": "/WeatherNewsApp/static/js/main.97986aae.chunk.js.map",
+    "runtime-main.js": "/WeatherNewsApp/static/js/runtime-main.ac7b8df3.js",
+    "runtime-main.js.map": "/WeatherNewsApp/static/js/runtime-main.ac7b8df3.js.map",
+    "static/css/2.f4d32d89.chunk.css": "/WeatherNewsApp/static/css/2.f4d32d89.chunk.css",
+    "static/js/2.ce8373e9.chunk.js": "/WeatherNewsApp/static/js/2.ce8373e9.chunk.js",
+    "static/js/2.ce8373e9.chunk.js.map": "/WeatherNewsApp/static/js/2.ce8373e9.chunk.js.map",
+    "index.html": "/WeatherNewsApp/index.html",
+    "precache-manifest.4dffcb91d06bc917d5cfacece5c1bf38.js": "/WeatherNewsApp/precache-manifest.4dffcb91d06bc917d5cfacece5c1bf38.js",
+    "service-worker.js": "/WeatherNewsApp/service-worker.js",
+    "static/css/2.f4d32d89.chunk.css.map": "/WeatherNewsApp/static/css/2.f4d32d89.chunk.css.map",
+    "static/css/main.7bb31e96.chunk.css.map": "/WeatherNewsApp/static/css/main.7bb31e96.chunk.css.map",
+    "static/js/2.ce8373e9.chunk.js.LICENSE.txt": "/WeatherNewsApp/static/js/2.ce8373e9.chunk.js.LICENSE.txt",
+    "static/media/afternoon-sun.png": "/WeatherNewsApp/static/media/afternoon-sun.7144f2e5.png",
+    "static/media/mdb.css": "/WeatherNewsApp/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/evening-sun.png": "/WeatherNewsApp/static/media/evening-sun.55411c34.png",
+    "static/media/all.min.css": "/WeatherNewsApp/static/media/fa-solid-900.8e1ed89b.woff2",
+    "static/media/moon-bats.png": "/WeatherNewsApp/static/media/moon-bats.d0a5384e.png",
+    "static/media/moon.png": "/WeatherNewsApp/static/media/moon.b6ccc98a.png",
+    "static/media/morning-sun.png": "/WeatherNewsApp/static/media/morning-sun.c7a411ca.png",
+    "static/media/page-under-construction.png": "/WeatherNewsApp/static/media/page-under-construction.52fea669.png",
+    "static/media/weather2.gif": "/WeatherNewsApp/static/media/weather2.72174c72.gif",
+    "static/media/weather_banner.jpg": "/WeatherNewsApp/static/media/weather_banner.f3fcd4a5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac7b8df3.js",
+    "static/css/2.f4d32d89.chunk.css",
+    "static/js/2.ce8373e9.chunk.js",
+    "static/css/main.7bb31e96.chunk.css",
+    "static/js/main.97986aae.chunk.js"
+  ]
+}
