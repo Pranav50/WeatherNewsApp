@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/WeatherNewsApp/static/css/main.6a058e1c.chunk.css",
-    "main.js": "/WeatherNewsApp/static/js/main.c3ab6102.chunk.js",
-    "main.js.map": "/WeatherNewsApp/static/js/main.c3ab6102.chunk.js.map",
+    "main.css": "/WeatherNewsApp/static/css/main.cad4ffa4.chunk.css",
+    "main.js": "/WeatherNewsApp/static/js/main.adc238c2.chunk.js",
+    "main.js.map": "/WeatherNewsApp/static/js/main.adc238c2.chunk.js.map",
     "runtime-main.js": "/WeatherNewsApp/static/js/runtime-main.ac7b8df3.js",
     "runtime-main.js.map": "/WeatherNewsApp/static/js/runtime-main.ac7b8df3.js.map",
     "static/css/2.f4d32d89.chunk.css": "/WeatherNewsApp/static/css/2.f4d32d89.chunk.css",
-    "static/js/2.95fc98a5.chunk.js": "/WeatherNewsApp/static/js/2.95fc98a5.chunk.js",
-    "static/js/2.95fc98a5.chunk.js.map": "/WeatherNewsApp/static/js/2.95fc98a5.chunk.js.map",
+    "static/js/2.d80851b9.chunk.js": "/WeatherNewsApp/static/js/2.d80851b9.chunk.js",
+    "static/js/2.d80851b9.chunk.js.map": "/WeatherNewsApp/static/js/2.d80851b9.chunk.js.map",
     "index.html": "/WeatherNewsApp/index.html",
-    "precache-manifest.69229e65d93e9bfd9cbb1d29cbfbd861.js": "/WeatherNewsApp/precache-manifest.69229e65d93e9bfd9cbb1d29cbfbd861.js",
+    "precache-manifest.3b605e0ee4a18f0139c5fd6f4c2716b1.js": "/WeatherNewsApp/precache-manifest.3b605e0ee4a18f0139c5fd6f4c2716b1.js",
     "service-worker.js": "/WeatherNewsApp/service-worker.js",
     "static/css/2.f4d32d89.chunk.css.map": "/WeatherNewsApp/static/css/2.f4d32d89.chunk.css.map",
-    "static/css/main.6a058e1c.chunk.css.map": "/WeatherNewsApp/static/css/main.6a058e1c.chunk.css.map",
-    "static/js/2.95fc98a5.chunk.js.LICENSE.txt": "/WeatherNewsApp/static/js/2.95fc98a5.chunk.js.LICENSE.txt",
+    "static/css/main.cad4ffa4.chunk.css.map": "/WeatherNewsApp/static/css/main.cad4ffa4.chunk.css.map",
+    "static/js/2.d80851b9.chunk.js.LICENSE.txt": "/WeatherNewsApp/static/js/2.d80851b9.chunk.js.LICENSE.txt",
     "static/media/afternoon-sun.png": "/WeatherNewsApp/static/media/afternoon-sun.7144f2e5.png",
     "static/media/mdb.css": "/WeatherNewsApp/static/media/arrow_right.8ef6a08c.svg",
     "static/media/evening-sun.png": "/WeatherNewsApp/static/media/evening-sun.55411c34.png",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.ac7b8df3.js",
     "static/css/2.f4d32d89.chunk.css",
-    "static/js/2.95fc98a5.chunk.js",
-    "static/css/main.6a058e1c.chunk.css",
-    "static/js/main.c3ab6102.chunk.js"
+    "static/js/2.d80851b9.chunk.js",
+    "static/css/main.cad4ffa4.chunk.css",
+    "static/js/main.adc238c2.chunk.js"
   ]
 }
