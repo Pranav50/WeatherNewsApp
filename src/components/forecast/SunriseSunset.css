@@ -1,0 +1,91 @@
+.day {
+    font-family: 'Open Sans', sans-serif;  
+    font-weight: bolder;
+}
+
+.date {
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: bolder;
+}
+
+.timeNow {
+    font-family: 'Orbitron', sans-serif; 
+}
+
+.main-body {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+} 
+
+.clock-date {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.clock {
+    height: 100%;
+    width: 40%;
+    text-align: center;
+    color: #d2dae2;
+    font-family: 'Orbitron', sans-serif; 
+}
+
+.date {
+    height: 100%;
+    width: 60%;
+    text-align: center;
+    color: #dfe4ea;
+}
+
+
+.sumnoon-phase {
+    margin-top: 0.85%;
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sunmoon {
+    height: 100%;
+    width: 20%;
+    text-align: center;
+}
+
+.phase {
+    height: 100%; 
+    width: 80%;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+@media (max-width: 1045px) and (min-width: 260px) {
+    .main-body {
+      margin-top: 5%;
+    }
+}
+
+@media (max-width: 640px) and (min-width: 360px) {
+    .main-body {
+      margin-top: 5%;  
+    }
+
+    .date, .clock {
+        font-size: 10px;
+    }
+
+    .sunmoon img {
+        height: 3rem;
+    }
+
+    .phase img {
+        height: 1rem;
+    }
+    
+  } 

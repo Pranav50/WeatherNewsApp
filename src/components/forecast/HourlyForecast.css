@@ -1,0 +1,62 @@
+/* New CSS Values */
+.text {
+    color: #dcdde1;
+}
+
+.muted-text {
+    font-size: 10px;
+    margin-left: 14px;
+    color: #dcdde1;
+}
+   
+.forecast-header {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.hour {
+  width: 20%;
+  height: 100%;
+}
+
+.temp2 { 
+  width: 20%;
+  height: 100%;
+  text-align: center;
+}
+
+.img2 {
+  width: 20%;
+  height: 100%;
+  text-align: center;
+  justify-content: center;
+}
+
+.desc2 {
+  width: 40%;
+  height: 100%;
+  text-align: left;
+}
+
+.square2 {
+  height: 25px;
+  width: 100%;
+  background-color: #57606f;
+  opacity: 0.65;
+  font-weight: bolder;
+  color: #ffffff;
+  text-align: center;
+} 
+
+@media (max-width: 499px) and (min-width: 360px) {
+  .img2 img {
+    height: 0.2rem;
+    width: 1.8rem;
+  }
+  .hour .square2 {
+    font-size: 0.7rem;
+    height: 18px;
+  }
+
+}
