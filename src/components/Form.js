@@ -150,9 +150,11 @@ class Form extends React.Component {
  <MDBCol>
  <MDBCard  style={sectionStyle}></MDBCard>
  <MDBCard style={{zIndex:'1', background: 'none'}}>
- <div className="github-box stack-top">
+      {/* 
+      <div className="github-box stack-top">
             <Github/>
-  </div>
+      </div>
+      */}
  <MDBCardBody>
 
    {/* Day Night Toggle */}
